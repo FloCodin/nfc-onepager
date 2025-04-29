@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "FLorian Rogenmoser",
+  title: "Florian Rogenmoser",
   description: "created with ♥ by codin",
 };
 
