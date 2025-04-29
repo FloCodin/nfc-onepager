@@ -11,11 +11,11 @@ export default function Home() {
                 <div className="flex flex-col items-center">
                   <Link href="https://www.codin.ch">
                     <Image
-                        src="/codin%20black@0.75x.webp"
+                        src="/codin%20black@2x.webp"
                         alt="codin logo"
-                        className="h-12 mb-4"
-                        height={100}
-                        width={100}
+                        className="h-16 mb-4 w-full"
+                        height={256}
+                        width={256}
                     />
                   </Link>
                     <Link href="https://www.codin.ch">
