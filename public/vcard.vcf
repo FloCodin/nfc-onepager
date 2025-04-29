@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rogenmoser;Florian;;;
+FN:Florian Rogenmoser
+ORG:codin GmbH
+TITLE:Applikationsentwickler
+TEL;TYPE=WORK,VOICE:+41 62 923 22 22
+EMAIL;TYPE=PREF,INTERNET:florian.rogenmoser@codin.ch
+URL:https://www.codin.ch
+ADR;TYPE=WORK:;;Hauptstrasse 64;Frick;;5070;Schweiz
+END:VCARD
