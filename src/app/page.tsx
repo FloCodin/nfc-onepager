@@ -88,6 +88,13 @@ export default function Home() {
                     <TabsContent value="private">
                         <div className="mt-4 space-y-3">
                             <Link
+                                href="/PrivateVcard.vcf"
+                                download
+                                className="block bg-black text-emerald-400 rounded-full py-2 font-semibold"
+                            >
+                                Herunterladen
+                            </Link>
+                            <Link
                                 href="https://www.instagram.com/flothedeveloper/"
                                 target="_blank"
                                 className="block bg-black text-emerald-400 rounded-full py-2 font-semibold"
